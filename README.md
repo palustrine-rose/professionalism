@@ -1,4 +1,4 @@
 # professionalism
 Here lies my credentials.
 
-- [Dez Resume](https://github.com/palustrine-rose/professionalism/WaagResume2026.html)
+- [Dez Resume](https://palustrine-rose.github.io/professionalism/WaagResume2026.html)
